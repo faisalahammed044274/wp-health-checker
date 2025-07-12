@@ -1,0 +1,4 @@
+/* Basic styling for table */
+table.widefat td {
+  padding: 10px;
+}
