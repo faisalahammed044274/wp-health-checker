@@ -113,7 +113,7 @@ Run scheduled checks with cron
 Detect plugin conflicts, orphaned options, etc.
 
 🙌 Credits
-Developed by: [Your Name]
+Developed by: https://github.com/faisalahammed044274
 License: GPL v2 or later
 
 
